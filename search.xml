@@ -3,7 +3,7 @@
   <entry>
     <title><![CDATA[Test Tools]]></title>
     <url>%2F2019%2F05%2F11%2Ftest-tools%2F</url>
-    <content type="text"><![CDATA[Quick StartCreate a new post1$ hexo new "My New Post" More info: Writing Run server1$ hexo server More info: Server Generate static files1$ hexo generate More info: Generating Deploy to remote sitesYou found the key ! 长期维护版 –2020/02/24/1948 高级加速版 –2020/03/04/0123为速度优化;服务可能不稳定;可用性无法保证]]></content>
+    <content type="text"><![CDATA[Quick StartCreate a new post1$ hexo new "My New Post" More info: Writing Run server1$ hexo server More info: Server Generate static files1$ hexo generate More info: Generating Deploy to remote sitesYou found the key ! [长期维护版](http://000095.xyz/download/95deWALL-signed.mobileconfig) –2020/03/09 优化调整中高级加速版 –2020/03/04/0123 （为速度优化;服务可能不稳定;可用性无法保证） 如果此工具对你有帮助的话，欢迎打赏鼓励我继续维护产出]]></content>
   </entry>
   <entry>
     <title><![CDATA[电信移动双线ISP接入下使用OPENWRT做策略路由区分国内外流量]]></title>
