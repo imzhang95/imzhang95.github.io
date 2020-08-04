@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://000095.xyz/"/>
-  <updated>2020-08-04T15:09:02.587Z</updated>
+  <updated>2020-08-04T16:18:48.249Z</updated>
   <id>http://000095.xyz/</id>
   
   <author>
@@ -17,11 +17,29 @@
   <generator uri="http://hexo.io/">Hexo</generator>
   
   <entry>
-    <title>Test Tools</title>
-    <link href="http://000095.xyz/2019/05/11/test-tools/"/>
-    <id>http://000095.xyz/2019/05/11/test-tools/</id>
+    <title>Test Tools 🖥️</title>
+    <link href="http://000095.xyz/2020/08/01/test-tools-2/"/>
+    <id>http://000095.xyz/2020/08/01/test-tools-2/</id>
+    <published>2020-08-01T02:41:54.000Z</published>
+    <updated>2020-08-04T16:18:48.249Z</updated>
+    
+    <content type="html"><![CDATA[<div>🤐 小范围分享</br></br>如果此工具对你有帮助的话，欢迎**打赏**鼓励我继续维护产出</br><img src="https://i.loli.net/2020/03/09/QOYvTlDFbXG146Z.jpg"/></div><div id="hexo-blog-encrypt" data-wpm="抱歉, 密码不对, 可再试." data-whm="抱歉, 密码不可被校验, 刷新后重试."><div class="hbe-input-container"><input type="password" id="hbePass" placeholder="请联系我获取密码" /><label>请联系我获取密码</label><div class="bottom-line"></div></div><script id="hbeData" type="hbeData" data-hmacdigest="3b63f0f7767a95d4c498a1b39700a77397613df5f688649fc57dc223b348a3c1">38a0b4d9a42e6eabc4d9903b045d292f4bb1df3f09b39e032af173cdd6aedaca0a24dfb40e0221db80df817c778a60fb982f333093e5d7db3fe259537838ba49047aa9cb033d6ce7f800e55042a77bcc01305b86d6315b007eccdce26717fb392ee1909030f34235f30f2a93e05524d0a40b77a271f9195065ce485781befa048d908cf56b702655fb1281f12bc433ed22f87c92e94ceacd50e23aadbd99e3a80dfcab626277f82b25995df9330294aa56733244c7298d8aaa3003c3c9a755160e47e96b6042032cb5645ba6e6d1831f7f7a454386a2e2791bbb95b8b9ee6dc2</script></div><script src="/lib/blog-encrypt.js"></script><link href="/css/blog-encrypt.css" rel="stylesheet" type="text/css">]]></content>
+    
+    <summary type="html">
+    
+      PC用 仅供测试 //✔️ 2020.08.03
+    
+    </summary>
+    
+    
+  </entry>
+  
+  <entry>
+    <title>Test Tools 📱</title>
+    <link href="http://000095.xyz/2019/05/11/test-tools-1/"/>
+    <id>http://000095.xyz/2019/05/11/test-tools-1/</id>
     <published>2019-05-11T09:41:54.000Z</published>
-    <updated>2020-08-04T15:09:02.587Z</updated>
+    <updated>2020-08-04T15:32:30.640Z</updated>
     
     <content type="html"><![CDATA[<div>仅供测试 <br/>- 🚢Sailor(S)版：长期维护 美国<br/>- ✈️Pilot(P)版：高级加速 日本 / 低可用性保障<br/>-------------<br/><br/>⚠️ <i>2020.08.04</i>&nbsp;&nbsp;反馈移动4G无法连接(P)版，排查为移动屏蔽了域名解析，可手动设定DNS修复<br/>🛠️ <i>2020.07.25</i>&nbsp;&nbsp;常规证书更新，配置自动失效后请重新安装<br/>😊 <i>2020.06.02</i>&nbsp;&nbsp;没及时更新证书，弥补大家，(P)版暂开放全天使用，Enjoy~<br/>🛠️ <i>2020.06.02</i>&nbsp;&nbsp;更新(S)(P)版证书，有效至7月底<br/>🌟 <i>2020.03.29</i>&nbsp;&nbsp;(P)版每日18点后可用<br/>😊 <i>2020.03.23</i>&nbsp;&nbsp;(S)版已上线，自动恢复保障高可用；(P)版上线，网络高峰期可用<br/>⚠️ <i>2020.03.22</i>&nbsp;&nbsp;(P)版流量超限，维护调整中<br/>🛠️ <i>2020.03.22</i>&nbsp;&nbsp;更新后端配置，采用ECC证书保证安全性<br/>⚠️ <i>2020.03.09</i>&nbsp;&nbsp;(S)版调整中，暂体验(P)版<br/>😊 <i>2020.03.04</i>&nbsp;&nbsp;(P)版已上线，改善网络高峰期体验，测试期中可能不稳定<br/>... ...<br/><br/></div><div id="hexo-blog-encrypt" data-wpm="抱歉, 密码不对, 可再试." data-whm="抱歉, 密码不可被校验, 刷新后重试."><div class="hbe-input-container"><input type="password" id="hbePass" placeholder="避免被采集和滥用，关键信息输入密码后查看，"视频网站油管的英语拼写"" /><label>避免被采集和滥用，关键信息输入密码后查看，"视频网站油管的英语拼写"</label><div class="bottom-line"></div></div><script id="hbeData" type="hbeData" data-hmacdigest="b8c2f4772796ecc9bf00c51e32191fc6bdc47a820269e5518607012107f9d407">ca1e4a890d60e6712ba8305f07247c0b8ff000c5dd22a5731be1d4a3096aa64007fe5fce0ad0ac90cad899235c7551efa398ce5ec44602023f5c5900aac1e9d0270954034a5fa321ddbb4848d81db57c6aacc520a6ba4633effce3a4bdcbb102772f7722915dfd290979388eb8f64f6b4980594b6f1fada9983e828c88eea543bfd46f6a9c7dae3dfe528dd5f2035b3dc97b9656066665b57c779757f64da980dd11d6b62afd4e8eda9386be3c8e8b8dac9c686b0cc57cdb0469c60e2fea767d134470352b2bf41efeb27dfc47ead1f4d1c61c259378862d7625750e0edd78304f7b80b91cea3e0a1fa8dba46ce551972f76e76b473f2fb1319231745586a1454a9c6d6c78fa8f973ef843677ce980c680fddfde9ec89de8c05c8a95c01372d251c4dbc32217e4d5a39c071ea671a5b91f439ca7525a64b019f56b0d5a84fa599513a6b53255c9ee918d39f70931cf1ef893f7ea4c7efc658f4f7abae40e06a23e441278426e869c4f4522c7e51aed1ed7690bbe1718c6105d0a8c6a8b2b12842c562a9ba72ac722474dbf9e7149f64fe57bbe26a8ab3c5bc04c9f8dabf7b99699452056ad6940d4231bc21f16c22a25d1c7fc7eeb76297ba2fc834e411ff556a1c26fd7287c1812267b4562f382f4be340cdb91fe27f189ea23b9278463f13e21d5ebd59e66b830c3ff630de86951a23186ef46b3ab3721354af95c0f119ab4</script></div><script src="/lib/blog-encrypt.js"></script><link href="/css/blog-encrypt.css" rel="stylesheet" type="text/css">]]></content>
     
