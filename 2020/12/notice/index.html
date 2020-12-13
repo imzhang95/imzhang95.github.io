@@ -196,10 +196,10 @@
     
     
     
-    
-    
-    <div id="artalk_thread"></div>
+    <div id="gitalk-container"></div>
 
+    
+    
     
     
     
@@ -266,25 +266,25 @@
     
     
     
-    
-    
-
-    
     <script>
         function loadComment() {
             let e, i;
-            (e = document.createElement("script")).src = 'https://cdn.jsdelivr.net/npm/artalk@1.0.6/dist/Artalk.js',
+            (e = document.createElement("script")).src = 'https://cdn.jsdelivr.net/npm/gitalk@1/dist/gitalk.min.js',
             document.body.appendChild(e);
             e.onload = () => {
-                var artalkConfig = {&#34;serverUrl&#34;:&#34;http://hex-com.gearhostpreview.com/&#34;,&#34;placeholder&#34;:&#34;COMMENT&#34;,&#34;noComment&#34;:&#34;Be the first person to leave a comment!&#34;,&#34;defaultAvatar&#34;:&#34;mp&#34;,&#34;pageKey&#34;:null,&#34;gravatar&#34;:{&#34;cdn&#34;:null},&#34;readMore&#34;:{&#34;pageSize&#34;:15,&#34;autoLoad&#34;:true},&#34;emoticons&#34;:null};
-                artalkConfig.el = '#artalk_thread';
-                for (var i in artalkConfig) {
-                    if (artalkConfig[i] === null) delete artalkConfig[i];
-                }
-                new Artalk(artalkConfig);
+                var gitalk = new Gitalk({
+                    clientID: '157c37c3256eaf49fee7',
+                    clientSecret: 'e0b1115e31c74e09322425219ee3e858cfb6540b',
+                    repo: 'hex-com',
+                    owner: 'imzhang95',
+                    admin: 'imzhang95',
+                    id: window.location.pathname,
+                    distractionFreeMode: false
+                });
+                gitalk.render('gitalk-container');
             };
             (i = document.createElement("link")).rel = "stylesheet",
-            i.href = 'https://cdn.jsdelivr.net/npm/artalk@1.0.6/dist/Artalk.css',
+            i.href = 'https://cdn.jsdelivr.net/npm/gitalk@1/dist/gitalk.css',
             document.head.appendChild(i);
         }
     
@@ -307,6 +307,10 @@
         }, 1);
     </script>
 
+    
+    
+
+    
     
     
     
