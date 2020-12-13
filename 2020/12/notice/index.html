@@ -195,9 +195,9 @@
     
     
     
-    <div id="minivaline_container" class="minivaline_thread"></div>
-
     
+    <div id="gitalk-container"></div>
+
     
     
     
@@ -264,19 +264,28 @@
     
 
     
+    
+    
     <script>
         function loadComment() {
             let e, i;
-            (e = document.createElement("script")).src = 'https://cdn.jsdelivr.net/npm/minivaline@2.7.5/dist/MiniValine.min.js',
+            (e = document.createElement("script")).src = 'https://cdn.jsdelivr.net/npm/gitalk@1/dist/gitalk.min.js',
             document.body.appendChild(e);
             e.onload = () => {
-                var minivalineConfig = {&#34;appId&#34;:&#34;wz5yyYNMwRIuuwOYR2om5emC-MdYXbMMI&#34;,&#34;appKey&#34;:&#34;AMhpscnnMJYbtY190ENrCYYV&#34;,&#34;mode&#34;:null,&#34;placeholder&#34;:null,&#34;pathname&#34;:null,&#34;adminEmailMd5&#34;:null,&#34;master&#34;:null,&#34;friends&#34;:null,&#34;tagMeta&#34;:null,&#34;math&#34;:null,&#34;md&#34;:null,&#34;lang&#34;:null,&#34;emoticonUrl&#34;:null,&#34;NoRecordIP&#34;:null,&#34;maxNest&#34;:null,&#34;pageSize&#34;:null,&#34;enableQQ&#34;:null,&#34;visitor&#34;:false,&#34;serverURLs&#34;:null};
-                minivalineConfig.el = '#minivaline_container';
-                for (var i in minivalineConfig) {
-                    if (minivalineConfig[i] === null) delete minivalineConfig[i];
-                }
-                new MiniValine(minivalineConfig);
+                var gitalk = new Gitalk({
+                    clientID: '157c37c3256eaf49fee7',
+                    clientSecret: 'e0b1115e31c74e09322425219ee3e858cfb6540b',
+                    repo: 'hex-com',
+                    owner: 'imzhang95',
+                    admin: 'imzhang95',
+                    id: window.location.pathname,
+                    distractionFreeMode: false
+                });
+                gitalk.render('gitalk-container');
             };
+            (i = document.createElement("link")).rel = "stylesheet",
+            i.href = 'https://cdn.jsdelivr.net/npm/gitalk@1/dist/gitalk.css',
+            document.head.appendChild(i);
         }
     
         var runningOnBrowser = typeof window !== "undefined";
@@ -298,8 +307,6 @@
         }, 1);
     </script>
 
-    
-    
     
     
 
