@@ -188,6 +188,25 @@
 
 
 
+    <div class="post__comments content-card" id="comment">
+        
+    <h4>Comments</h4>
+    
+    
+    
+    
+    <div id="minivaline_container" class="minivaline_thread"></div>
+
+    
+    
+    
+    
+    
+    
+
+
+    </div>
+
 
 
 </main>
@@ -237,6 +256,60 @@
 
  
 
+
+    
+
+    
+    
+    
+
+    
+    <script>
+        function loadComment() {
+            let e, i;
+            (e = document.createElement("script")).src = 'https://cdn.jsdelivr.net/npm/minivaline@2.7.5/dist/MiniValine.min.js',
+            document.body.appendChild(e);
+            e.onload = () => {
+                var minivalineConfig = {&#34;appId&#34;:&#34;wz5yyYNMwRIuuwOYR2om5emC-MdYXbMMI&#34;,&#34;appKey&#34;:&#34;AMhpscnnMJYbtY190ENrCYYV&#34;,&#34;mode&#34;:null,&#34;placeholder&#34;:null,&#34;pathname&#34;:null,&#34;adminEmailMd5&#34;:null,&#34;master&#34;:null,&#34;friends&#34;:null,&#34;tagMeta&#34;:null,&#34;math&#34;:null,&#34;md&#34;:null,&#34;lang&#34;:null,&#34;emoticonUrl&#34;:null,&#34;NoRecordIP&#34;:null,&#34;maxNest&#34;:null,&#34;pageSize&#34;:null,&#34;enableQQ&#34;:null,&#34;visitor&#34;:false,&#34;serverURLs&#34;:null};
+                minivalineConfig.el = '#minivaline_container';
+                for (var i in minivalineConfig) {
+                    if (minivalineConfig[i] === null) delete minivalineConfig[i];
+                }
+                new MiniValine(minivalineConfig);
+            };
+        }
+    
+        var runningOnBrowser = typeof window !== "undefined";
+        var isBot = runningOnBrowser && !("onscroll" in window) || typeof navigator !== "undefined" && /(gle|ing|ro|msn)bot|crawl|spider|yand|duckgo/i.test(navigator.userAgent);
+        var supportsIntersectionObserver = runningOnBrowser && "IntersectionObserver" in window;
+    
+        setTimeout(function () {
+            if (!isBot && supportsIntersectionObserver) {
+                var comment_observer = new IntersectionObserver(function(entries) {
+                    if (entries[0].isIntersecting) {
+                        loadComment();
+                        comment_observer.disconnect();
+                    }
+                }, { threshold: [0] });
+                comment_observer.observe(document.getElementById('comment'));
+            } else {
+                loadComment();
+            }
+        }, 1);
+    </script>
+
+    
+    
+    
+    
+
+    
+    
+    
+    
+    
+
+    
 
 
 
