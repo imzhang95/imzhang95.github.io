@@ -1,7 +1,7 @@
 +++
 author = "Hugo Author"
 title = "Emoji Support"
-date = "2021-07-01"
+date = "2019-01-01"
 description = "Guide to emoji usage in Hugo"
 +++
 

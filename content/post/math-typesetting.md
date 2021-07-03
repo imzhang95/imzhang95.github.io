@@ -1,7 +1,7 @@
 ---
 author: Hugo Authors
 title: Math Typesetting
-date: 2021-07-01
+date: 2019-01-01
 description: A brief guide to setup KaTeX
 math: true
 ---
