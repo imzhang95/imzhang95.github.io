@@ -3,8 +3,8 @@ author = "95"
 title = "Test Tools - Windows"
 date = "2020-12-16"
 tags = [
-    "Proxy",
-    "Service"
+    "proxy",
+    "service"
 ]
 +++
 <!--more-->
