@@ -4,7 +4,7 @@ theme = "hugo-notepadium"
 copyright = "©2021 95+Live."
 
 languageCode = "zh-cn"  # for the RSS generation
-defaultContentLanguage = "zh-cn"
+defaultContentLanguage = "en"
 
 hasCJKLanguage = true
 
