@@ -60,8 +60,12 @@ darkTheme = "dracula"
 #  github = "gohugoio"  # https://github.com/XXX
 
 [params.nav]
-showCategories = true       # /categories/
-showTags = true             # /tags/
+showCategories = false       # /categories/
+showTags = false             # /tags/
+
+[[params.nav.custom]]
+title = "#Service"
+url = "/tags/service/"
 
 [[params.nav.custom]]
 title = "About"
