@@ -1,5 +1,5 @@
 +++
-author = "Hugo Authors"
+author = "Hugo Author"
 title = "Emoji Support"
 date = "2021-07-01"
 description = "Guide to emoji usage in Hugo"
