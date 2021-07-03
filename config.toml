@@ -3,7 +3,7 @@ title = "Yet Another Toolbox"
 theme = "hugo-notepadium"
 copyright = "©2021 95+Live."
 
-languageCode = "zh-cn"  # for the RSS generation
+languageCode = "en"  # for the RSS generation
 defaultContentLanguage = "en"
 
 hasCJKLanguage = true
