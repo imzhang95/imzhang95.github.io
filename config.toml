@@ -63,9 +63,9 @@ darkTheme = "dracula"
 showCategories = true       # /categories/
 showTags = true             # /tags/
 
-#[[params.nav.custom]]
-#title = "About"
-#url = "/about/"
+[[params.nav.custom]]
+title = "About"
+url = "/about/"
 
 #[[params.nav.custom]]
 #title = "Hugo"
