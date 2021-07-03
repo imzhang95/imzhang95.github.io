@@ -2,8 +2,7 @@
 author = "95"
 title = "Test Tools - iOS"
 date = "2020-12-09"
-updated = "2021-07-03"
-categories = [
+tags = [
     "Proxy",
     "Service"
 ]
@@ -11,7 +10,7 @@ categories = [
 
 iOS tools **for testing only**
 
-
+<!--more-->
 - 🚢Sailor(S)版： 美国      【[点这里安装](http://go.000095.xyz/)】 20210524 updated *vip:lol* (用户名:密码)
 美国服务器 免费使用 长期维护 稳稳地幸福
 
