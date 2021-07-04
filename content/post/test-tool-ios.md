@@ -16,7 +16,8 @@ iOS tools **for testing only**
 `vip:lol` (用户名:密码)  
 美国服务器 免费使用 长期维护 稳稳地幸福
 
-- ✈️Pilot(P)版： 韩国      【[点这里安装](http://gov.000095.xyz/)】  [提交工单](https://docs.qq.com/form/page/DSVBzdXlSUHhLZlJO?_w_tencentdocx_form=1)索取  
+- ✈️Pilot(P)版： 韩国      【[点这里安装](http://gov.000095.xyz/)】   
+朋友留言/网友打赏后领取安装方式  
 韩国服务器 有偿使用 高速上网体验 芜湖起飞～ 
 
 🌟 有问题的同学 请按本文后附操作指南 手动移除和重新安装一次
