@@ -35,8 +35,10 @@ slogan = "< Code is code />"
 #css = ["css/fonts.css"]
 
 [params.comments]
-enable = true  # En/Disable comments globally, default: false. You can always enable comments on per page.
-# Enable cusdis
+enable = false  # En/Disable comments globally, default: false. You can always enable comments on per page.
+
+[params.commentscus]
+enable = true # Enable cusdis
 
 [params.share]
 enable = false  # En/Disable share globally, default: false. You can always enable share on per page.

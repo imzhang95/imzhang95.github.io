@@ -1,4 +1,4 @@
-{{- if eq site.Params.comments.enable true -}}
+{{- if eq site.Params.commentscus.enable true -}}
 <HR style="opacity:.4;border-top-style:dashed;border-top-color:inherit">
 <BR>
 <!-- Comments by Cusdis -->
@@ -7,6 +7,6 @@
     data-app-id="11d28d2e-e506-4468-814e-2194e0f08d36"
     data-page-id="{{ .File.UniqueID }}" data-page-url="{{ .Permalink }}"
     data-page-title="{{ .Title }}"></div>
-<script async defer src="https://cusdis.com/js/cusdis.es.js"></script>
+<script async defer src="/cusdis/cusdis.es.js"></script>
 
 {{- end -}}
