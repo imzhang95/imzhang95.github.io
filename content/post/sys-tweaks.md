@@ -1,11 +1,11 @@
 ---
 author: 95
-title: Win 10 Configuration Trick
+title: Win 10 Configuration Tweaks
 date: 2021-07-09
 tags: [windows, regedit, sys_hack]
 ---
 
-Useful tips and tricks for modding Win system and other application (95's Ver.)
+Useful tips for tweaking Win system and other application (95s Ver.)
 <!--more-->
 
 ## System pre-installed
