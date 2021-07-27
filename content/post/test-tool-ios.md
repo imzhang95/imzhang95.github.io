@@ -2,7 +2,7 @@
 author = "95"
 title = "Test Tools - iOS"
 date = "2020-12-09"
-lastmod = "2021-05-30"
+lastmod = "2021-07-27"
 tags = [
     "proxy",
     "service"
@@ -13,7 +13,7 @@ iOS tools **for testing only**
 
 <!--more-->
 - 🚢Sailor(S)版： 美国      【[点这里安装](http://go.000095.xyz/)】   
-![pass](https://img14.360buyimg.com/ddimg/jfs/t1/186554/8/11688/307/60e17c62E601771d1/83af09373a9cde94.png)
+![pass](https://img10.360buyimg.com/ddimg/jfs/t1/179735/8/16175/801/60ffbb41Eb90c4ae5/5740a8226e32cc51.png)
 (用户名:密码)  
 美国服务器 免费使用 长期维护 稳稳地幸福
 
