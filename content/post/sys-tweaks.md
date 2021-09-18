@@ -2,6 +2,7 @@
 author: 95
 title: Win 10 Configuration Tweaks
 date: 2021-07-09
+lastmod: 2021-09-18
 tags: [windows, regedit, sys_hack]
 ---
 
@@ -105,6 +106,12 @@ start "" "C:\path\to\Cisco AnyConnect Secure Mobility Client\vpnui.exe"
 ::pause
 exit
 ```
+
+### Chrome/Firefox managed by organization
+- find related registry values and restart browser  
+
+> HKLM\SOFTWARE\Policies\Google\Chrome (Mozilla\Firefox)
+> HKCU\Software\Policies\Google\Chrome (Mozilla\Firefox)
 
 
 ## Enjoy your hacking ~
