@@ -11,7 +11,7 @@ categories:
 series:
   - Themes Guide
 date: '2020-05-26'
-lastmod: '2020-05-26'
+lastmod: '2020-05-27'
 featuredImage: images/20210703113525.png
 draft: false
 ---
