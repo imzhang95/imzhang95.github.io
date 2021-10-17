@@ -1,0 +1,12 @@
+{{- if eq site.Params.commentcus.enable true -}}
+
+<BR>
+<!-- Comments by Cusdis -->
+<span class="block font-bold">Comments</span>
+<div id="cusdis_thread" data-host="https://cusdis.com"
+    data-app-id="11d28d2e-e506-4468-814e-2194e0f08d36"
+    data-page-id="{{ .File.UniqueID }}" data-page-url="{{ .Permalink }}"
+    data-page-title="{{ .Title }}"></div>
+<script async defer src="/cusdis/cusdis.es.js"></script>
+
+{{- end -}}

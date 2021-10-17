@@ -1,29 +1,31 @@
 ---
-title: 95 Zhang
+title: {{ replace .Name "-" " " | title }}
 draft: false
-role: Product Owner
-avatar: images/author.png
-bio: 'An egotistical and somewhat idealistic person.'
-organization:
-  name: 95+Live
-  url: https://000095.xyz/
+experiences:
+  - title:
+    organization:
+      name:
+      url:
+    dates:
+    location:
+    writeup:
 
-weight: 1
+weight:
 widget:
-  handler: about
+  handler: experiences
 
   # Options: sm, md, lg and xl. Default is md.
-  width:
+  width: lg
 
   sidebar:
     # Options: left and right. Leave blank to hide.
-    position:
+    position: left
     # Options: sm, md, lg and xl. Default is md.
-    scale:
+    scale: md
   
   background:
     # Options: primary, secondary, tertiary or any valid color value. Default is primary.
-    color: secondary
+    color:
     image:
     # Options: auto, cover and contain. Default is auto.
     size:
@@ -32,4 +34,3 @@ widget:
     # Options: fixed, local, scroll.
     attachment: 
 ---
-

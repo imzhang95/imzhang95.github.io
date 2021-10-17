@@ -1,16 +1,16 @@
 ---
-title: 95 Zhang
+title: Pages
 draft: false
-role: Product Owner
-avatar: images/author.png
-bio: 'An egotistical and somewhat idealistic person.'
-organization:
-  name: 95+Live
-  url: https://000095.xyz/
+# Section you want to display
+section: posts
+# Pages count
+count: 5
+# Options: card, plain and masonry.
+style: plain
 
-weight: 1
+weight: 2
 widget:
-  handler: about
+  handler: pages
 
   # Options: sm, md, lg and xl. Default is md.
   width:
@@ -20,10 +20,10 @@ widget:
     position:
     # Options: sm, md, lg and xl. Default is md.
     scale:
-  
+
   background:
     # Options: primary, secondary, tertiary or any valid color value. Default is primary.
-    color: secondary
+    color:
     image:
     # Options: auto, cover and contain. Default is auto.
     size:
@@ -32,4 +32,3 @@ widget:
     # Options: fixed, local, scroll.
     attachment: 
 ---
-

@@ -1,0 +1,13 @@
+main:
+  - name: Posts
+    url: /posts/
+    weight: 1
+#  - name: Demo Docs
+#    url: /docs/
+#    weight: 2
+#  - name: '#Service'
+#    url: /tags/service/
+#    weight: 3
+  - name: About
+    url: '#about'
+    weight: 4

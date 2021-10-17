@@ -1,14 +1,18 @@
 ---
-title: 95 Zhang
+title: {{ replace .Name "-" " " | title }}
 draft: false
-role: Product Owner
-avatar: images/author.png
-bio: 'An egotistical and somewhat idealistic person.'
+role:
+avatar:
+bio:
 organization:
-  name: 95+Live
-  url: https://000095.xyz/
+  name:
+  url:
+social:
+  - icon:
+    iconPack:
+    url:
 
-weight: 1
+weight:
 widget:
   handler: about
 
@@ -32,4 +36,3 @@ widget:
     # Options: fixed, local, scroll.
     attachment: 
 ---
-
