@@ -3,7 +3,7 @@
 title: Buy Me a Coffee
 role:
 bio: If my services are helpful to you, please support me. 
-avatar: images/20210703113525.png
+avatar: images/donate.png
 
 organization:
   name: 95+Live
