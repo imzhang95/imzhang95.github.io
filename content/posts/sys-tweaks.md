@@ -2,7 +2,7 @@
 author: 95
 title: Win 10 Configuration Tweaks
 date: 2021-07-09
-lastmod: 2021-09-18
+lastmod: 2021-12-01
 toc: true
 tags: [windows, regedit, sys_hack]
 ---
