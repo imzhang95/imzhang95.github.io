@@ -107,6 +107,8 @@ start "" "C:\path\to\Cisco AnyConnect Secure Mobility Client\vpnui.exe"
 ::pause
 exit
 ```
+- Profile [Ref]
+    `C:\ProgramData\Cisco\Cisco AnyConnect Secure Mobility Client\Profile\Employee.xml `
 
 ### Chrome/Firefox managed by organization
 - find related registry values and restart browser  
