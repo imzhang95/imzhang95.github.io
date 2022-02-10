@@ -2,15 +2,12 @@ const themeDir = __dirname + '/../../';
 
 module.exports = {
   important: true,
-  purge: {
-    enabled: process.env.HUGO_ENVIRONMENT === 'production',
-    content: [
-      themeDir + 'layouts/**/*.html',
-      themeDir + 'exampleSite/content/**/*.html',
-      'layouts/**/*.html',
-      'content/**/*.html',
-    ],
-  },
+  content: [
+    themeDir + 'layouts/**/*.html',
+    themeDir + 'exampleSite/content/**/*.html',
+    'layouts/**/*.html',
+    'content/**/*.html',
+  ],
   theme: {
     fontFamily: {
       'serif': ['Lora', 'Noto Serif SC', 'serif'],
@@ -52,6 +49,7 @@ module.exports = {
       }
     }
   },
-  variants: {},
-  plugins: []
+  plugins: [
+    require('tailwindcss-rtl')
+  ]
 }

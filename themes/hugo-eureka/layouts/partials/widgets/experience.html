@@ -12,12 +12,12 @@
           {{ end }}
 
           {{ if and .organization.name .location }}
-          <span class="ml-2 mr-2">·</span>
+          <span class="ms-2 me-2">·</span>
           {{ end }}
 
           <span>{{ .location | markdownify }} </span>
         </div>
-        <div class="flex-shrink-0"> {{ .dates | markdownify }}</div>
+        <div class="shrink-0"> {{ .dates | markdownify }}</div>
       </div>
     </div>
 
