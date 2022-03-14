@@ -1,5 +1,5 @@
 ---
-authors:
+author:
   - donate
 title: "Test Tools - iOS"
 date: "2020-12-09"
@@ -7,6 +7,7 @@ lastmod: "2021-12-01"
 tags:
   - proxy
   - service
+weight: 1
 ---
 
 iOS tools **for testing only**

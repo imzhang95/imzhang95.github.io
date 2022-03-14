@@ -1,10 +1,10 @@
 ---
 author: 95
-title: Win 10 Configuration Tweaks
+title: "[Tweaks] Win10 Configuration"
 date: 2021-07-09
 lastmod: 2021-12-01
 toc: true
-tags: [windows, regedit, sys_hack]
+tags: [tweaks, windows, regedit, sys_hack]
 ---
 
 Useful tips for tweaking Win system and other application (95s Ver.)
