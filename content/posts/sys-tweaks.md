@@ -1,5 +1,5 @@
 ---
-author: 95
+authors: 95
 title: "[Tweaks] Win10 Configuration"
 date: 2021-07-09
 lastmod: 2021-12-01

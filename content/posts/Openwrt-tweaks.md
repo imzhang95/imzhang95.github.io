@@ -1,5 +1,5 @@
 ---
-author: 95
+authors: 95
 title: "[Tweaks] Openwrt"
 date: 2022-03-10
 lastmod: 2022-03-12
