@@ -3,7 +3,7 @@ authors:
   - donate
 title: "Test Tools - iOS"
 date: "2020-12-09"
-lastmod: "2022-03-27"
+lastmod: "2022-03-29"
 tags:
   - proxy
   - service
@@ -28,6 +28,7 @@ vip | ![pass](https://img11.360buyimg.com/ddimg/jfs/t1/209396/22/5565/572/616b9d
 🌟 如有其它问题/需求 请 【[提交工单](https://docs.qq.com/form/page/DSVBzdXlSUHhLZlJO?_w_tencentdocx_form=1)】 
 
 ---
+2022.03.29  疫情严重，我能做的是尽力保证服务正常！**上海加油！**
 2021.12.01  又是一年，祝一切顺利|已部署全自动更新运维，更新方式不变  
 2020.12.09  重启本服务，请关注本页面以及时获取更新  
 2020.12.01  服务器欠费停机，本人正在捡垃圾筹钱买新服务器  
