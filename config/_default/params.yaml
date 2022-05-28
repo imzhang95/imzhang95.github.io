@@ -69,7 +69,7 @@ comment:
   #   app-Key:
 
 diagram:
-  handler: mermaid
+  handler: 
 
   # mermaid:
   #   # Browse https://mermaid-js.github.io/mermaid/#/Setup to see the options available.
