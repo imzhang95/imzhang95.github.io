@@ -19,8 +19,8 @@ iOS tools **for testing only**
 vip | ![pass](https://img.github.luxe/2022/e2963b407879f.png)
 
 
-- ✈️ Pilot(P) -- JP  【[点这里安装](http://gov.000095.xyz/)】     "直飞东京羽田机场"  
-朋友留言/网友打赏后领取安装方式  
+- ~~✈️ Pilot(P) -- JP  【[点这里安装](http://gov.000095.xyz/)】     "直飞东京羽田机场"~~  
+~~朋友留言/网友打赏后领取安装方式~~  
  
 
 🌟 有问题的同学 请按本文后附操作指南 手动移除和重新安装一次
