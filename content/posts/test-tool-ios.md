@@ -16,7 +16,7 @@ iOS tools **for testing only**
 - 🚢 Sailor(S) -- US  【[点这里安装](http://go.000095.xyz/)】  "美西旧金山湾港口"
 用户名 | 密码
 --------|------
-vip | ![pass](https://z.run/i/2022/10/01/12thrq0.png)
+vip | ![pass](https://img-7sj.pages.dev/file/1098275ec2db4c0d217a8.png)
 
 
 - ~~✈️ Pilot(P) -- JP  【[点这里安装](http://gov.000095.xyz/)】     "直飞东京羽田机场"~~  
