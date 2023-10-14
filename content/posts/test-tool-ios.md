@@ -3,7 +3,7 @@ authors:
   - donate
 title: "Test Tools - macOS,iOS"
 date: "2020-12-09"
-lastmod: "2022-08-01"
+lastmod: "2023-10-14"
 tags:
   - proxy
   - service
@@ -16,7 +16,7 @@ iOS tools **for testing only**
 - 🚢 Sailor(S) -- US  【[点这里安装](http://go.000095.xyz/)】  "美西旧金山湾港口"
 用户名 | 密码
 --------|------
-vip | ![pass](https://img-7sj.pages.dev/file/1098275ec2db4c0d217a8.png)
+vip | ![pass](https://pic.ziyuan.wang/2023/10/14/isbzx_063015292bfb2.png)
 
 
 - ~~✈️ Pilot(P) -- JP  【[点这里安装](http://gov.000095.xyz/)】     "直飞东京羽田机场"~~  
@@ -25,9 +25,10 @@ vip | ![pass](https://img-7sj.pages.dev/file/1098275ec2db4c0d217a8.png)
 
 🌟 有问题的同学 请按本文后附操作指南 手动移除和重新安装一次
 
-🌟 如有其它问题/需求 请 【[提交工单](https://docs.qq.com/form/page/DSVBzdXlSUHhLZlJO?_w_tencentdocx_form=1)】 
+🌟 如有其它问题/需求 请下方评论
 
 ---
+2023.10.13  服务器更换
 2022.08.01  美西服务器更换；自动化更新脚本问题修复  
 2022.03.29  疫情严重，我能做的是尽力保证服务正常！**上海加油！**  
 2021.12.01  又是一年，祝一切顺利|已部署全自动更新运维，更新方式不变  
