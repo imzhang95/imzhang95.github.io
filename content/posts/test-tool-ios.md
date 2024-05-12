@@ -3,7 +3,7 @@ authors:
   - donate
 title: "Test Tools - macOS,iOS"
 date: "2020-12-09"
-lastmod: "2024-05-09"
+lastmod: "2024-05-12"
 tags:
   - proxy
   - service
@@ -27,6 +27,7 @@ vip | ![pass](https://xiniu.ee/i/2024/05/10/663d7ab4e1af4.png)
 🌟 如有其它问题/需求 请下方评论
 
 ---
+2024.05.12  又暴毙了。。  
 2024.05.09  复活，更新方式不变  
 2023.10.13  服务器ip更换  
 2022.08.01  美西服务器ip更换；自动化更新脚本问题修复  
