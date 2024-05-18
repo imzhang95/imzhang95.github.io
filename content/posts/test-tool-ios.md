@@ -3,7 +3,7 @@ authors:
   - donate
 title: "Test Tools - macOS,iOS"
 date: "2020-12-09"
-lastmod: "2024-05-12"
+lastmod: "2024-05-19"
 tags:
   - proxy
   - service
@@ -13,7 +13,7 @@ weight: 1
 iOS tools **for testing only**
 
 <!--more-->
-- 🦢 - TW  【[点这里安装](http://go.000095.xyz/)】  "宝岛淡水渔人码头"
+- 🚢 - US  【[点这里安装](http://go.000095.xyz/)】  "加州西岸港湾"  
 用户名 | 密码
 --------|------
 vip | ![pass](https://xiniu.ee/i/2024/05/10/663d7ab4e1af4.png)
@@ -27,8 +27,7 @@ vip | ![pass](https://xiniu.ee/i/2024/05/10/663d7ab4e1af4.png)
 🌟 如有其它问题/需求 请下方评论
 
 ---
-2024.05.12  又暴毙了。。  
-2024.05.09  复活，更新方式不变  
+2024.05.19  “妈妈再爱我一次”  
 2023.10.13  服务器ip更换  
 2022.08.01  美西服务器ip更换；自动化更新脚本问题修复  
 2022.03.29  疫情严重，我能做的是尽力保证服务正常！**上海加油！**  
