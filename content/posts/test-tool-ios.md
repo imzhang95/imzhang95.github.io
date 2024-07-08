@@ -3,7 +3,7 @@ authors:
   - donate
 title: "Test Tools - macOS,iOS"
 date: "2020-12-09"
-lastmod: "2024-05-19"
+lastmod: "2024-07-08"
 tags:
   - proxy
   - service
@@ -16,7 +16,7 @@ iOS tools **for testing only**
 - 🚢 - US  【[点这里安装](http://go.000095.xyz/)】  "加州西岸港湾"  
 用户名 | 密码
 --------|------
-vip | ![pass](https://xiniu.ee/i/2024/05/10/663d7ab4e1af4.png)
+vip | ![pass](https://missuo.ru/file/9dbd0e7bb6ecf8f7c0bbe.png)
 
 
 - ~~✈️ - JP  【[点这里安装](http://gov.000095.xyz/)】     "东京羽田机场"~~  
