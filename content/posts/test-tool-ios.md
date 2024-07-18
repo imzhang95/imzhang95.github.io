@@ -3,7 +3,7 @@ authors:
   - donate
 title: "Test Tools - macOS,iOS"
 date: "2020-12-09"
-lastmod: "2024-07-08"
+lastmod: "2024-07-18"
 tags:
   - proxy
   - service
@@ -13,10 +13,10 @@ weight: 1
 iOS tools **for testing only**
 
 <!--more-->
-- 🚢 - US  【[点这里安装](http://go.000095.xyz/)】  "加州西岸港湾"  
+- 🚎 - HK  【[点这里安装](http://go.000095.xyz/)】  "香港沙田叮叮车站"  
 用户名 | 密码
 --------|------
-vip | ![pass](https://missuo.ru/file/9dbd0e7bb6ecf8f7c0bbe.png)
+vip | ![pass](https://missuo.ru/file/948639b7925e363f33fe1.png)
 
 
 - ~~✈️ - JP  【[点这里安装](http://gov.000095.xyz/)】     "东京羽田机场"~~  
@@ -27,6 +27,7 @@ vip | ![pass](https://missuo.ru/file/9dbd0e7bb6ecf8f7c0bbe.png)
 🌟 如有其它问题/需求 请下方评论
 
 ---
+2024.07.18  防封新网络协议
 2024.05.19  “妈妈再爱我一次”  
 2023.10.13  服务器ip更换  
 2022.08.01  美西服务器ip更换；自动化更新脚本问题修复  
