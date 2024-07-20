@@ -16,7 +16,7 @@ iOS tools **for testing only**
 - 🚎 - HK  【[点这里安装](http://go.000095.xyz/)】  "香港沙田叮叮车站"  
 用户名 | 密码
 --------|------
-vip | ![pass](https://missuo.ru/file/948639b7925e363f33fe1.png)
+vip | 英文 斑马 大写
 
 
 - ~~✈️ - JP  【[点这里安装](http://gov.000095.xyz/)】     "东京羽田机场"~~  
