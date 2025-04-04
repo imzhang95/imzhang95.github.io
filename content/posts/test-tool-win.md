@@ -16,5 +16,5 @@ win8/win10/win11 64bit 测试可用
 
 ![image](https://cdn.skyimg.de/up/2025/4/3/8793xh.png)  
 
-【[点这里下载](https://www.123912.com/s/rOOyjv-7C5QA?提取码:zFGL)】  
+【[点这里下载](https://gofile.io/d/O14Hxv)】  
 * 解压密码 本站域名
