@@ -14,7 +14,7 @@ weight: 1
 Windows 64bit 系统可用的一键代理应用  
 win8/win10/win11 64bit 测试可用  
 
-![image](https://cdn.skyimg.de/up/2025/4/15/q34x9q.jpg) 
+![image](https://cdn.skyimg.de/up/2025/4/15/41gnch.jpg)
 
 【[点这里下载](http://go1.000095.xyz)】  
 
