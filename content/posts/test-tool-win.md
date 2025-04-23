@@ -3,18 +3,37 @@ authors:
   - donate
 title: "Test Tools - Windows"
 date: "2020-12-16"
-lastmod: "2025-04-15"
+lastmod: "2025-04-22"
 tags:
   - proxy
   - service
 weight: 1
 ---
-**一键全自动 防呆 便携 纯绿色**
+## Features
+
+ - Multiple landing nodes
+   - United States
+   - various loc in Europe
+ - Multiple protocols
+ - Built-in ad blocker
+ - Automatic system config/restore
+ - One-click 'internet' access
 <!--more-->
-Windows 64bit 系统可用的一键代理应用  
+## 功能特色
+
+ - 多个落地节点
+   - 美国
+   - 欧洲多个地区
+ - 多种协议
+ - 自带广告拦截
+ - 自动系统配置/还原
+ - 一键上网 
+
 win8/win10/win11 64bit 测试可用  
 
 ![image](https://cdn.skyimg.de/up/2025/4/15/41gnch.jpg)
+![image](https://cdn.skyimg.de/up/2025/4/23/82xnvq.jpg)
+![image](https://cdn.skyimg.de/up/2025/4/23/bee7jx.jpg)
 
 【[点这里下载](http://go1.000095.xyz)】  
 
