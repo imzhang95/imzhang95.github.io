@@ -18,7 +18,7 @@ weight: 1
  - Multiple protocols;
  - Built-in ad blocker;
  - Automatic system config/restore;
- - One-click 'internet' access;
+ - One-click 'internet' access; 
 
 <!--more-->
 
