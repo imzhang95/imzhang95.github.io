@@ -3,7 +3,7 @@ authors:
   - donate
 title: "Test Tools - Windows"
 date: "2020-12-16"
-lastmod: "2025-04-22"
+lastmod: "2025-10-01"
 tags:
   - proxy
   - service
