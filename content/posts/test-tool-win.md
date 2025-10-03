@@ -3,7 +3,7 @@ authors:
   - donate
 title: "Test Tools - Windows"
 date: "2020-12-16"
-lastmod: "2025-10-01"
+lastmod: "2025-10-03"
 tags:
   - proxy
   - service
@@ -34,7 +34,7 @@ weight: 1
 
 win8/win10/win11 64bit 测试可用  
 
-【[点这里下载](http://go1.000095.xyz)】  
+→【[点这里下载](http://go1.000095.xyz)】  
 
 用户名 | 密码
 --------|------
