@@ -13,20 +13,20 @@ weight: 1
 iOS tools **for testing only**
 
 <!--more-->
-🇺🇳  "中国台湾" 【[Click to Install](https://go0.000095.xyz/)】  
-🇭🇰  "中国香港" 【[Click to Install](https://go2.000095.xyz/)】  
-🇯🇵  "东京" 【[Click to Install](https://go1.000095.xyz/)】  
-🇳🇱  "阿姆斯特丹" 【[Click to Install](https://go4.000095.xyz/)】  
-🇺🇸  "达拉斯" 【[Click to Install](https://go5.000095.xyz/)】  
-🇨🇦  "多伦多" 【[Click to Install](https://go6.000095.xyz/)】  
-
-> 如果本服务帮到了您 请不吝啬您的打赏  
-> 让我更有实力和动力将服务长期维护下去  感谢支持❤  
+--------|------
+🇺🇳  "中国台湾" | [Click to Install](https://go0.000095.xyz/)  
+🇭🇰  "中国香港" | [Click to Install](https://go2.000095.xyz/)  
+🇯🇵  "东京" | [Click to Install](https://go1.000095.xyz/)  
+🇳🇱  "阿姆斯特丹" | [Click to Install](https://go4.000095.xyz/)  
+🇺🇸  "达拉斯" | [Click to Install](https://go5.000095.xyz/)  
+🇨🇦  "多伦多" | [Click to Install](https://go6.000095.xyz/)  
 
 用户名 | 密码
 --------|------
 vip | 🌍
 
+> 如果本服务帮到了您 请不吝啬您的打赏  
+> 让我更有实力和动力将服务长期维护下去  感谢支持🤟  
 
 💡 有问题的同学 请手动移除配置$^{*1}$并重新安装一次  
 💡 如有其它问题/需求 请下方评论
