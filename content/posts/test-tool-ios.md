@@ -13,12 +13,12 @@ weight: 1
 iOS tools **for testing only**
 
 <!--more-->
-🇺🇳  "中国台湾" 【[点这里安装](https://go0.000095.xyz/)】  
-🇭🇰  "中国香港" 【[点这里安装](https://go2.000095.xyz/)】  
-🇯🇵  "东京" 【[点这里安装](https://go1.000095.xyz/)】  
-🇳🇱  "阿姆斯特丹" 【[点这里安装](https://go4.000095.xyz/)】  
-🇺🇸  "达拉斯" 【[点这里安装](https://go5.000095.xyz/)】  
-🇨🇦  "多伦多" 【[点这里安装](https://go6.000095.xyz/)】  
+🇺🇳  "中国台湾" 【[Click to Install](https://go0.000095.xyz/)】  
+🇭🇰  "中国香港" 【[Click to Install](https://go2.000095.xyz/)】  
+🇯🇵  "东京" 【[Click to Install](https://go1.000095.xyz/)】  
+🇳🇱  "阿姆斯特丹" 【[Click to Install](https://go4.000095.xyz/)】  
+🇺🇸  "达拉斯" 【[Click to Install](https://go5.000095.xyz/)】  
+🇨🇦  "多伦多" 【[Click to Install](https://go6.000095.xyz/)】  
 
 > 如果本服务帮到了您 请不吝啬您的打赏  
 > 让我更有实力和动力将服务长期维护下去  感谢支持❤  
