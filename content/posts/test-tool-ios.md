@@ -16,14 +16,14 @@ iOS Tools - For Testing Purposes Only
 > 觉得好用？页面下方有赞助码 ☕  
 > 您的支持，让服务能长久稳定 🤟  
 
-地区 |
---------|--------
-🇺🇳  "中国台湾" | [Click to Install](https://go0.000095.xyz/)  
-🇭🇰  "中国香港" | [Click to Install](https://go2.000095.xyz/)  
-🇯🇵  "东京" | [Click to Install](https://go1.000095.xyz/)  
-🇳🇱  "阿姆斯特丹" | [Click to Install](https://go4.000095.xyz/)  
-🇺🇸  "达拉斯" | [Click to Install](https://go5.000095.xyz/)  
-🇨🇦  "多伦多" | [Click to Install](https://go6.000095.xyz/)  
+状态 | 地区 |
+--------|--------|--------
+🥵 | 🇺🇳  "中国台湾" | [Click to Install](https://go0.000095.xyz/)  
+🙂 | 🇭🇰  "中国香港" | [Click to Install](https://go2.000095.xyz/)  
+🙂 | 🇯🇵  "东京" | [Click to Install](https://go1.000095.xyz/)  
+🙂 | 🇳🇱  "阿姆斯特丹" | [Click to Install](https://go4.000095.xyz/)  
+🙂 | 🇺🇸  "达拉斯" | [Click to Install](https://go5.000095.xyz/)  
+🙂 | 🇨🇦  "多伦多" | [Click to Install](https://go6.000095.xyz/)  
 
 用户名 | 密码
 --------|------
