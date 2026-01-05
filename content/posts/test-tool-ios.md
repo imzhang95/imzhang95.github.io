@@ -18,7 +18,7 @@ iOS Tools - For Testing Purposes Only
 
 状态 | 地区 |
 --------|--------|--------
-🥵 | 🇺🇳  "中国台湾" | [Click to Install](https://go0.000095.xyz/)  
+🙂 | 🇺🇳  "中国台湾" | [Click to Install](https://go0.000095.xyz/)  
 🙂 | 🇭🇰  "中国香港" | [Click to Install](https://go2.000095.xyz/)  
 🙂 | 🇯🇵  "东京" | [Click to Install](https://go1.000095.xyz/)  
 🥵 | 🇳🇱  "阿姆斯特丹" | [Click to Install](https://go4.000095.xyz/)  
