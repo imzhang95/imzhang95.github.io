@@ -14,7 +14,7 @@ weight: 1
 
  - **One-click Connectivity**: Get 'online' instantly with a single tap.
  - **High-Availability Clusters**: Robust infrastructure ensuring 99.9% uptime.
- - **Global Presence**: Multiple exit nodes across APAC, the US, and various European regions.
+ - **Global Presence**: Multiple landing nodes across APAC, the US, and various European regions.
  - **Integrated Ad-Blocking**: Browse the web cleaner and faster.
  - **Auto-Configuration**: Seamless system setup and one-key restoration.
  - **Real-time Configuration Sync**: Settings are always up-to-date across all devices via the cloud.
@@ -25,10 +25,7 @@ weight: 1
  - 一键上网 
 
  - 高可用集群
- - 多个落地节点
-   - 亚太
-   - 美国
-   - 欧洲多个地区
+ - 多个落地节点 亚太 / 美洲 / 欧洲多个地区
  - 自带广告拦截
  - 自动系统配置/还原
  - 云端配置实时同步
