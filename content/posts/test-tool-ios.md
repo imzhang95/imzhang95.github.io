@@ -60,4 +60,4 @@ $^{*1}$ 手动移除
 ---
 Android ↓  
 
-![sing-box;mihomo内核 扫码添加](https://cdn.nodeimage.com/i/KJKPTwzdvolvVA1gkhNxaY70d4w4zA7W.webp)
+[sing-box;mihomo系内核 扫码添加](https://cdn.nodeimage.com/i/KJKPTwzdvolvVA1gkhNxaY70d4w4zA7W.webp)
