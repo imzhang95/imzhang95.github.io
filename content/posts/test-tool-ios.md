@@ -58,6 +58,6 @@ $^{*1}$ 手动移除
 设置 -- 通用 -- 描述文件与设备管理 -- 单击目标描述文件(如存在) -- 移除描述文件
 
 ---
-Android sing-box;mihomo内核 添加  
+Android ↓  
 
-→【[点这里下载](http://goqr.000095.xyz)】  
+![sing-box;mihomo内核 扫码添加](https://cdn.nodeimage.com/i/KJKPTwzdvolvVA1gkhNxaY70d4w4zA7W.webp)
