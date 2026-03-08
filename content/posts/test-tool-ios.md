@@ -1,7 +1,7 @@
 ---
 authors:
   - donate
-title: "Test Tools - macOS,iOS"
+title: "Test Tools - macOS,iOS,android"
 date: "2020-12-09"
 lastmod: "2026-02-22"
 tags:
@@ -57,4 +57,7 @@ vip | 🐎
 $^{*1}$ 手动移除  
 设置 -- 通用 -- 描述文件与设备管理 -- 单击目标描述文件(如存在) -- 移除描述文件
 
+---
+Android sing-box;mihomo内核 添加  
 
+→【[点这里下载](http://goqr.000095.xyz)】  
