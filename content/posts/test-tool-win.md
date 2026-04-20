@@ -10,6 +10,8 @@ tags:
 weight: 1
 ---
 
+![banner](https://cdn.nodeimage.com/i/ZoRMfmv6t7zkqotb616cqYPtlZTOzTfN.webp)
+
 ## Features:
 
  - **One-click Connectivity**: Get 'online' instantly with a single tap.
@@ -37,7 +39,8 @@ win8/win10/win11 64bit 测试可用
 用户名 | 密码
 --------|------
 vip | 🐎
-
+![image](https://cdn.nodeimage.com/i/dj5t1PyeudBiDKNVsRoXmV37xjrMZJGR.webp)
+![image](https://cdn.nodeimage.com/i/WBPVeX9t1dsHiz6yAY7IjF8RezKQM84B.webp)
 ![image](https://cdn.skyimg.net/up/2026/2/14/e40205f0.gif)
 ![image](https://cdn.skyimg.de/up/2025/4/23/82xnvq.jpg)
 ![image](https://cdn.skyimg.de/up/2025/4/23/bee7jx.jpg)
