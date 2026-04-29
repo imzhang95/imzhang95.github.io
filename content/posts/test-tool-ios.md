@@ -3,7 +3,7 @@ authors:
   - donate
 title: "Test Tools - macOS,iOS,android"
 date: "2020-12-09"
-lastmod: "2026-04-20"
+lastmod: "2026-04-29"
 tags:
   - proxy
   - service
@@ -20,8 +20,10 @@ iOS Tools - For Testing Purposes Only
 --------|--------|--------
 🟢 | 🇺🇳  "台湾" | [Click to Install](https://go0.000095.xyz/)  
 🟢 | 🇯🇵  "东京" | [Click to Install](https://go1.000095.xyz/)  
+🟢 | 🇩🇪  "不来梅" | [Click to Install](https://go3.000095.xyz/)  
 🟢 | 🇳🇱  "阿姆斯" | [Click to Install](https://go4.000095.xyz/)  
 🟢 | 🇺🇸  "达拉斯" | [Click to Install](https://go5.000095.xyz/)  
+🟢 | 🇺🇸  "洛杉矶" | [Click to Install](https://go6.000095.xyz/)  
 
 
 用户名 | 密码
@@ -34,11 +36,12 @@ vip | 🐎
 ---
 |更新记录||
 |--------|------|
+|20260429 | 新增服务器×2|
 |20251203 | 整编服务器 地区标注|
-|20251001 | 增加一台美国服务器 国庆快乐|
-|20250922 | 增加一台美国服务器|
+|20251001 | 增加美国服务器×1 国庆快乐|
+|20250922 | 增加美国服务器×1|
 |20250321 | 更换服务器|
-|20250305 | 新增备选服务器|
+|20250305 | 新增服务器×1|
 |20240921 | 服务器更换|
 |20240718 | 防封新网络协议|
 |20240519 | “妈妈再爱我一次”|
