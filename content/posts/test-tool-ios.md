@@ -18,12 +18,12 @@ iOS Tools - For Testing Purposes Only
 
 状态 | 地区 |
 --------|--------|--------
-🟢 | 🇺🇳  "台湾" | [Click to Install](https://go0.000095.xyz/)  
+🟢 | 🇭🇰  "香港" | [Click to Install](https://go0.000095.xyz/)  
 🟢 | 🇯🇵  "东京" | [Click to Install](https://go1.000095.xyz/)  
-🟢 | 🇩🇪  "不来梅" | [Click to Install](https://go3.000095.xyz/)  
+🔴 | 🇩🇪  "不来梅" | [Click to Install](https://go3.000095.xyz/)  
 🟢 | 🇳🇱  "阿姆斯" | [Click to Install](https://go4.000095.xyz/)  
 🟢 | 🇺🇸  "达拉斯" | [Click to Install](https://go5.000095.xyz/)  
-🟢 | 🇺🇸  "洛杉矶" | [Click to Install](https://go6.000095.xyz/)  
+🔴 | 🇺🇸  "洛杉矶" | [Click to Install](https://go6.000095.xyz/)  
 
 
 用户名 | 密码
