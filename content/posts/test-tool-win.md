@@ -34,11 +34,13 @@ weight: 1
 
 win8/win10/win11 64bit 测试可用  
 
-→【[点这里下载](http://gogo.000095.xyz)】  
+→ 下载【[这里](http://gogo.000095.xyz)】  
 
 用户名 | 密码
 --------|------
 vip | 🐎
+
+→ 解压 【"日"+"时"+"分"】  
 
 
 ![image](https://cdn.nodeimage.com/i/dj5t1PyeudBiDKNVsRoXmV37xjrMZJGR.webp)
