@@ -3,7 +3,7 @@ authors:
   - donate
 title: "Test Tools - macOS,iOS,android"
 date: "2020-12-09"
-lastmod: "2026-07-28"
+lastmod: "2026-09-28"
 tags:
   - proxy
   - service
@@ -20,10 +20,10 @@ iOS Tools - For Testing Purposes Only
 --------|--------|--------
 🟢 | 🇭🇰  "香港" | [Click to Install](https://go0.000095.xyz/)  
 🟢 | 🇯🇵  "东京" | [Click to Install](https://go1.000095.xyz/)  
-🔴 | 🇩🇪  "不来梅" | [Click to Install](https://go3.000095.xyz/)  
-🟡 | 🇳🇱  "阿姆斯" | [Click to Install](https://go4.000095.xyz/)  
-🟢 | 🇺🇸  "达拉斯" | [Click to Install](https://go5.000095.xyz/)  
-🔴 | 🇺🇸  "洛杉矶" | [Click to Install](https://go6.000095.xyz/)  
+🟢 | 🇬🇧  "伦敦" | [Click to Install](https://go3.000095.xyz/)  
+🟢 | 🇳🇱  "阿姆斯" | [Click to Install](https://go4.000095.xyz/)  
+🔴 | 🇺🇸  "达拉斯" | [Click to Install](https://go5.000095.xyz/)  
+🟡 | 🇺🇸  "洛杉矶" | [Click to Install](https://go6.000095.xyz/)  
 
 
 用户名 | 密码
